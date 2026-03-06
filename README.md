@@ -48,13 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafrix07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrix07&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -62,11 +56,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mafrix07&theme=tokyonight)
-
----
 
 # 🚀 Featured Projects
 
