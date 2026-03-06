@@ -51,11 +51,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mafrix07&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrix07&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Mafrix07&show_icons=true&theme=tokyonight" alt="Mafrix07's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrix07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -63,7 +60,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mafrix07&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mafrix07&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,7 +68,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mafrix07&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mafrix07&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
