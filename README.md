@@ -48,28 +48,23 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mafrix07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrix07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafrix07&show_icons=true&theme=tokyonight)
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mafrix07&theme=radical" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafrix07&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mafrix07&theme=radical" alt="GitHub Trophies" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mafrix07&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Mafrix07&theme=tokyonight)
 
 ---
 
@@ -92,7 +87,7 @@ Chatbot avec interface graphique **CustomTkinter**, base JSON et intégration AP
 # 💡 Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
@@ -109,11 +104,9 @@ Chatbot avec interface graphique **CustomTkinter**, base JSON et intégration AP
 
 ---
 
-# 👀 Profile Views
+# 👀 Compteur de visiteurs
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mafrix07&color=blue"/>
-</p>
+![](https://komarev.com/ghpvc/?username=Mafrix07&color=blue)
 
 ---
 
