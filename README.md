@@ -11,13 +11,16 @@
 
 # 🚀 About Me
 
-🎓 Software Engineering student  
-🤖 Passionate about **Artificial Intelligence & Big Data**  
-📱 Mobile developer using **Flutter**  
-💻 Backend development with **Python & Django**  
-📊 Interested in **Data Science & Machine Learning**  
-⚡ Always learning and building new projects  
-
+🎓 Software Engineering student
+🤖 Passionate about Artificial Intelligence & Big Data
+📱 Mobile developer using Flutter
+💻 Backend development with Python & Django
+📊 Interested in Data Science & Machine Learning
+⚡ Always learning and building new projects
+🧠 Aspiring genius
+😎 Charismatic (playboy mindset 😄)
+❤️ Philanthrope dans l’âme
+💰 Not yet a billionaire… but loading 🚀
 ---
 
 # 🧰 Tech Stack
