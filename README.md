@@ -92,7 +92,7 @@ I am a passionate **Software Engineering Student** with a strong focus on **Arti
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **📚 Mediatheque** | Library management system with GUI. | `Python` `Tkinter` `MySQL` | [View](https://github.com/Mafrix07) |
-| **📱 Student Notes** | Mobile app for notes & schedules. | `Java FX` `JAVA` `PostgreSQL` | [View](https://github.com/Mafrix07) |
+| **📱 Student Notes** | management's system for notes & schedules with GUI. | `Java FX` `JAVA` `PostgreSQL` | [View]([https://github.com/Mafrix07](https://github.com/Mafrix07/M-Scholaris.git)) |
 | **🤖 AI Assistant** | Intelligent chatbot with API. | `Python` `CustomTkinter` | [View](https://github.com/Mafrix07) |
 
 </div>
