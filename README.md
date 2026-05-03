@@ -91,8 +91,8 @@ I am a passionate **Software Engineering Student** with a strong focus on **Arti
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **📚 Mediatheque** | Library management system with GUI. | `Python` `Tkinter` `SQLite` | [View](https://github.com/Mafrix07) |
-| **📱 Student Notes** | Mobile app for notes & schedules. | `Flutter` `Dart` `Firebase` | [View](https://github.com/Mafrix07) |
+| **📚 Mediatheque** | Library management system with GUI. | `Python` `Tkinter` `MySQL` | [View](https://github.com/Mafrix07) |
+| **📱 Student Notes** | Mobile app for notes & schedules. | `Java FX` `JAVA` `PostgreSQL` | [View](https://github.com/Mafrix07) |
 | **🤖 AI Assistant** | Intelligent chatbot with API. | `Python` `CustomTkinter` | [View](https://github.com/Mafrix07) |
 
 </div>
